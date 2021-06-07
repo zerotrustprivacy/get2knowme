@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hendersonmersedes
 - 👀 I’m interested in data engineering 
-- 🌱 I’m currently learning PYTHON
+- 🌱 I love SQL and currently learning PYTHON
 - 💞️ I’m looking to collaborate on building databases 
 - 📫 How to reach me: LinkedIn 
 
