@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hendersonmersedes
-- 👀 I’m interested in data engineering 
-- 🌱 I love SQL and currently learning PYTHON
-- 💞️ I’m looking to collaborate on building databases 
+- 👋 Hi, I’m Mersedes
+- 👀 I’m interested in everything TECH
+- 🌱 I love using SQL
+- I build websites in my freetime
+- 💞️ I’m looking to collaborate with others on how to build reactive apps and websites 
 - 📫 How to reach me: LinkedIn 
 
 <!---
