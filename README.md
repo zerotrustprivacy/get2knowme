@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mersedes
+- 👋🏾 Hi, I’m Mersedes
 - 👀 I’m interested in everything TECH
 - 🌱 I love using SQL and Python
 - I'm learning how to build and automate the cloud
