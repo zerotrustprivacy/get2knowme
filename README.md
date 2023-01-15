@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m Mersedes
+- 🤓 DevOps Engineer
 - 👀 I’m interested in everything TECH
 - 🌱 I love using SQL and Python
-- I'm learning how to build and automate the cloud
 - 💞️ I’m looking to collaborate with others with a like mindset
 
 <!---
