@@ -1,8 +1,8 @@
 - 👋🏾 Hi, I’m Mersedes
 - 🤓 DevOps Engineer
-- 👀 I’m interested in everything TECH
-- 🌱 I love using SQL and Python
-- 💞️ I’m looking to collaborate with others with a like mindset
+- 👀 I’m interested in automating and securing the cloud
+- 🌱 I love reading and writing 
+- 💞️ I’m looking to collaborate with others with a similar mindset
 
 <!---
 hendersonmersedes/hendersonmersedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
