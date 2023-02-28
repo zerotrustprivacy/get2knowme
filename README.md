@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m Mersedes
-- 🤓 Azure DevOps Engineer
-- 👀 Interested in cybersecurity and IaC
+- 🤓 Former Azure DevOps Engineer
+- 👀 Interested in cybersecurity and system monitoring
 - 🌱 I love reading and learning about new technologies
 - 💞️ I’m looking to collaborate with others with a similar mindset
 
