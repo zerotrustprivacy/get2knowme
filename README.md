@@ -1,5 +1,6 @@
 - 👋🏾 Hi, I’m Mersedes
-- 🤓 Systems Engineer.
+- 🤓 Systems Engineer
+- 👩🏾‍💻 I use Splunk and Red Hat Linux
 - 👀 Interested in cybersecurity and system monitoring
 - 🌱 I love reading and learning about new technologies
 - 💞️ I’m looking to collaborate with others with a similar mindset
