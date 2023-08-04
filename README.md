@@ -1,7 +1,7 @@
 <h1>Hello 👋🏾 </h1>
 <h1>My name is Mersedes.</h1>
-<h2>I am a Systems Engineer with a specialization in Application Monitoring. I use Splunk and Cisco Thousand Eyes</h2>
-<h2>Other tools that I specialize in that are not specific to my role:</h2>
+<h3>I am a Systems Engineer with a specialization in Application Monitoring. I mainly use Splunk and Cisco Thousand Eyes</h3>
+<h3>Other tools that I specialize in that are not specific to my role:</h3>
 <p>
     <ul>
       <li>Azure Monitor</li>
