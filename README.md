@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m Mersedes
-- 🤓 Former Azure DevOps Engineer
+- 🤓 Systems Engineer.
 - 👀 Interested in cybersecurity and system monitoring
 - 🌱 I love reading and learning about new technologies
 - 💞️ I’m looking to collaborate with others with a similar mindset
