@@ -19,9 +19,7 @@
 - 🌱 I love reading and learning about new technologies
 - 💞️ I’m looking to collaborate with others with a similar mindset
 
-<p>
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6564137e5145316d2577e56d?variant=dark" alt="roadmap.sh"/></a>
-</p>
+
 <!---
 hendersonmersedes/hendersonmersedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
