@@ -1,5 +1,5 @@
 <h1>Hello 👋🏾 </h1>
-<h1>My name is Mersedes.</h1>
+
 <p>
   <img src="_81cbe224-68b2-4281-a6e9-3ac25f9c8cf4.jpeg" height=300px width=300px>
 </p>
