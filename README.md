@@ -7,8 +7,8 @@
 <h3>I use Splunk and Cisco Thousand Eyes to perform analysis on applications and resolve reoccurring issues within our infrastructure.</h3>
 <h3>Other tools and skills that I specialize in that are not specific to my role:</h3>
 
-    -⭐ Ansible
-    -⭐ Kubernetes
+    -⭐ Ansible / Terraform
+    -⭐ Container Management
     -⭐ Red Hat Linux
     -⭐ Python
           
