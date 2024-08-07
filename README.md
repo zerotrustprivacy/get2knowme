@@ -7,13 +7,13 @@
 <h3>I use Splunk and Cisco Thousand Eyes to perform analysis on applications and resolve reoccurring issues within our infrastructure.</h3>
 <h3>Other tools and skills that I specialize in that are not specific to my role:</h3>
 
-    -⭐ Ansible / Terraform
-    -⭐ Container Management
-    -⭐ Red Hat Linux
+    -⭐ HIPAA Compliance
+    -⭐ Healthcare Cybersecurity
+    -⭐ Linux
     -⭐ Python
           
 ---------------------------------------------------
-- 👀 I'm interested in Linux Engineering and Container Security
+- 👀 I'm interested in Cybersecurity Engineering and Healthcare GRC
 - 🌱 I love reading and learning about new technologies
 - 💞️ I’m looking to collaborate with others with a similar mindset
 
