@@ -1,24 +1,39 @@
-<h1>Hello 👋🏾 </h1>
+# 👋 Hi, I’m Sadie
 
-<p>
-  <img src="_81cbe224-68b2-4281-a6e9-3ac25f9c8cf4.jpeg" height=300px width=300px>
-</p>
-<h3>I am a Systems Engineer with a focus on Application Monitoring. </h3>
-<h3>I use Splunk and Cisco Thousand Eyes to perform analysis on applications and resolve reoccurring issues within our infrastructure.</h3>
-<h3>Other tools and skills that I specialize in that are not specific to my role:</h3>
+## 🚀 System Engineer | Python • DevOps • Cloud
 
-    -⭐ HIPAA Compliance
-    -⭐ Healthcare Cybersecurity
-    -⭐ Linux
-    -⭐ Python
-          
----------------------------------------------------
-- 👀 I'm interested in Cybersecurity Engineering and Healthcare GRC
-- 🌱 I love reading and learning about new technologies
-- 💞️ I’m looking to collaborate with others with a similar mindset
+I am an avid learner of technology, always curious about the latest advancements in the field. My passion lies in experimenting with new tools and resources, and I enjoy helping my team drive efficiency through automation.
 
+---
 
-<!---
-hendersonmersedes/hendersonmersedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Core Skills
+
+- **System Engineering**
+- **Python Scripting & Automation**
+- **DevOps Practices & CI/CD**
+- **Cloud Solutions & Infrastructure**
+
+---
+
+### 📈 Notable Projects
+
+All of my projects are notable—each one reflects my commitment to quality, innovation, and reliable automation.
+
+---
+
+### 🌱 What Drives Me
+
+> “Continuous learning and experimentation fuel my approach to engineering. I believe in leveraging technology to solve real-world problems and empower teams through smart automation.”
+
+---
+
+### 📝 Read My Blog
+
+Stay updated with my technical insights and automation tips at  
+[TechSavvySadie.substack.com](https://TechSavvySadie.substack.com)
+
+---
+
+<!--
+**zerotrustprivacy/zerotrustprivacy** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
