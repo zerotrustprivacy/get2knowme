@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sadie
 
-## 🚀 System Engineer | Python • DevOps • Cloud
+## 🚀 System Engineer | Python • Splunker • Cloud
 
 I am an avid learner of technology, always curious about the latest advancements in the field. My passion lies in experimenting with new tools and resources, and I enjoy helping my team drive efficiency through automation.
 
@@ -8,7 +8,7 @@ I am an avid learner of technology, always curious about the latest advancements
 
 ### 🛠️ Core Skills
 
-- **System Engineering**
+- **Splunk Dashboards**
 - **Python Scripting & Automation**
 - **DevOps Practices & CI/CD**
 - **Cloud Solutions & Infrastructure**
